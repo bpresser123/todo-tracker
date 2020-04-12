@@ -1,8 +1,4 @@
 import React from "react";
-
-//should not need to do this import
-import { Todo, ToggleTodo } from "./types";
-
 import "./todoListItem.scss";
 
 interface TodoListItemProps {

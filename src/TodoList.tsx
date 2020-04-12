@@ -1,6 +1,5 @@
 import React from 'react';
 import { TodoListItem } from './TodoListItem';
-import { ToggleTodo, Todo } from './types';
 
 interface todoListProps {
   todos: Array<Todo>;

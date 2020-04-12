@@ -1,5 +1,4 @@
 import React, { useState, ChangeEvent, FormEvent } from 'react';
-import { AddTodo } from './types';
 
 interface AddTodoFormProps {
   addTodo: AddTodo;

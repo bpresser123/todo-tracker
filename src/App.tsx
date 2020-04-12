@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 //should not need to do this import
-import { Todo, ToggleTodo, AddTodo } from './types';
+// import { Todo, ToggleTodo, AddTodo } from './types';
 import { TodoList } from './TodoList';
 import { AddTodoForm } from './AddTodoForm';
 
